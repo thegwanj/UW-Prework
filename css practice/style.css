@@ -1,0 +1,48 @@
+.center {
+    text-align:center;
+}
+
+.red {
+    color:red;
+}
+
+.blue {
+    color:blue;
+}
+
+.green {
+    color:green;
+}
+
+.big {
+    font-size:175%;
+}
+
+.tiny {
+    font-size:50%;
+}
+
+.bold {
+    font-weight:bold;
+}
+
+.fontChange {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.comboStyle {
+    font-size:125%;
+    color:orange;
+    font-weight:bold;
+}
+
+.styledFont {
+    color:green;
+}
+
+#styledImage {
+    background-color:dodgerblue;
+    border-style: solid;
+    border-width: 10px;
+    border-color: orange;
+}
